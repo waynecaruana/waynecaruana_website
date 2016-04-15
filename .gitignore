@@ -1,3 +1,4 @@
 *.map
 *.cmd
 node_modules/
+package.json
