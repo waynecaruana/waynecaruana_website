@@ -2,4 +2,3 @@
 *.cmd
 node_modules/
 *.log
-typings/
